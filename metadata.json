@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Glow & Go: AI-Powered Saloon Booking",
+  "description": "A premium saloon booking platform featuring AI-driven style previews, seamless appointment scheduling, and a comprehensive owner dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
